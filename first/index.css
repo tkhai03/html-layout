@@ -1,0 +1,13 @@
+.top-gray-header {
+    background-color: darkgrey;
+    length: 10%;
+    width: 100%;
+}
+.bottom-darkgray-footer {
+    background-color: darkslategray;
+    length: 100px;
+    width: 50px;
+}
+.white-body {
+    background-color: white;
+}
