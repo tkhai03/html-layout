@@ -1,8 +1,8 @@
 .top-container {
     border: solid black 7px;
     height: 200px;
-    width: 90%;
-    margin:auto;
+    width: 95%;
+    margin: auto;
     margin-top: 50px;
     padding: 12px 10px;
     box-sizing: border-box;
@@ -12,8 +12,9 @@
 #purple-rectangle {
     background: purple;
     height: 120px;
-    width: 70px;
-    margin-top: 40;
+    width: 40px;
+    margin-top: 35px;
+    margin-bottom: 12px;
     display: inline-block;
 }
 
@@ -21,6 +22,7 @@
     background: rgb(27, 165, 27);
     height: 176px;
     width: 300px;
+    margin: 0 40px;
     display: inline-block;
 }
 
@@ -34,10 +36,18 @@
 
 .middle-container {
     border: dotted black 5px;
-    height: 210px;
-    width: 90%;
+    height: 220px;
+    width: 95%;
     margin: auto;
-    margin-top: 50px;
+    margin-top: 40px;
+}
+
+#cream-box {
+    background: lightyellow;
+    height: 100px;
+    width: 70%;
+    margin: auto;
+    padding: 40px;
 }
 
 .bottom-container {
@@ -45,6 +55,7 @@
     height: 250px;
     width: 60%;
     margin: auto;
+    text-align: center;
     margin-top: 50px;
 }
 
@@ -52,4 +63,5 @@
     font-size: 50px;
     font-weight: bold;
     color: navy;
+
 }
