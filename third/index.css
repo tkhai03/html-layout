@@ -1,0 +1,44 @@
+.gray-area {
+    background: lightgray;
+    height: 150px;
+    width: 100%;
+}
+
+#square {
+    background: blue;
+    height: 70px;
+    width: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.text-area {
+    background: white;
+    height: 200px;
+    width: 100%;
+}
+
+#text {
+    text-align: middle;
+}
+
+.row1 {
+    background: blue;
+    height: 150px;
+    width: 100%;
+}
+.row2 {
+    background: aquamarine;
+    height: 150px;
+    width: 100%;
+}
+.row3 {
+    background: lightgreen;
+    height: 150px;
+    width: 100%;
+}
+.row4 {
+    background: yellow;
+    height: 150px;
+    width: 100%;
+}
